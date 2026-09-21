@@ -1,4 +1,4 @@
-# Beermohamed K — Senior Frontend Engineer Portfolio
+# Beermohamed K — Frontend Engineer Portfolio
 
 A responsive personal portfolio built with **Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Lucide React and next-themes**.
 

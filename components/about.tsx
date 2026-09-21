@@ -11,7 +11,7 @@ export function About() {
             <span className="eyebrow">ABOUT ME</span>
             <h2>Turning ideas into<br />real-world products</h2>
             <p>
-              Senior Frontend Engineer with 6+ years of experience building production-grade web applications using React.js, Next.js, and TypeScript. Experienced in E-commerce platforms, admin dashboards, and enterprise applications.
+              Frontend Engineer with 6+ years of experience building production-grade web applications using React.js, Next.js, and TypeScript. Experienced in E-commerce platforms, admin dashboards, and enterprise applications.
             </p>
             <p>
               Strong in REST API integration, performance optimization, and modern frontend architecture. Currently available as an Immediate Joiner.

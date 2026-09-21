@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container footer-main">
         <a href="#home" className="brand">
           <span className="brand-mark"><b>B</b><em>K</em></span>
-          <span className="brand-copy"><strong>Beermohamed K</strong><small>Senior Frontend Engineer</small></span>
+          <span className="brand-copy"><strong>Beermohamed K</strong><small>Frontend Engineer</small></span>
         </a>
         <nav className="footer-nav" aria-label="Footer navigation">
           <a href="#home">Home</a><a href="#about">About</a><a href="#skills">Skills</a><a href="#experience">Experience</a><a href="#projects">Projects</a><a href="#contact">Contact</a>

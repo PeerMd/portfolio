@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Beermohamed K',
-  role: 'Senior Frontend Engineer',
+  role: 'Frontend Engineer',
   location: 'Chennai, India',
   email: 'peerkamaal@gmail.com',
   linkedin: 'https://linkedin.com/in/beer-mohamed-7080b72b6',
@@ -48,7 +48,8 @@ export const projects = [
   {
     title: 'Order Management System',
     stack: ['Next.js', 'TypeScript', 'Redux'],
-    description: 'Admin dashboard to manage orders, customers, inventory and more.',
+    description:
+      'Admin dashboard to manage orders, customers, inventory and more.',
     image: '/projects/oms-preview.jpg',
   },
   {
@@ -60,7 +61,8 @@ export const projects = [
   {
     title: 'Ticketing System',
     stack: ['React', 'TypeScript', 'Context API'],
-    description: 'Internal tool for issue tracking and approvals. Led a 5-member team.',
+    description:
+      'Internal tool for issue tracking and approvals. Led a 5-member team.',
     image: '/projects/ticketing-preview.jpg',
   },
   {

@@ -20,22 +20,31 @@ export function Header() {
     <header className="site-header">
       <div className="container header-inner">
         <a href="#home" className="brand" aria-label="Beermohamed K home">
-          <span className="brand-mark"><b>B</b><em>K</em></span>
+          <span className="brand-mark">
+            <b>B</b>
+            <em>K</em>
+          </span>
           <span className="brand-copy">
             <strong>Beermohamed K</strong>
-            <small>Frontend Engineer</small>
+            <small>Senior Frontend Engineer</small>
           </span>
         </a>
 
         <nav className="desktop-nav" aria-label="Primary navigation">
           {links.map(([label, href], index) => (
-            <a key={href} className={index === 0 ? 'active' : ''} href={href}>{label}</a>
+            <a key={href} className={index === 0 ? 'active' : ''} href={href}>
+              {label}
+            </a>
           ))}
         </nav>
 
         <div className="header-actions">
           <ThemeToggle />
-          <a className="button button-primary header-resume" href="/resume.pdf" download>
+          <a
+            className="button button-primary header-resume"
+            href="/resume.pdf"
+            download
+          >
             <Download size={14} /> Download Resume
           </a>
           <button
@@ -53,7 +62,9 @@ export function Header() {
       {open && (
         <nav className="mobile-nav" aria-label="Mobile navigation">
           {links.map(([label, href]) => (
-            <a key={href} href={href} onClick={() => setOpen(false)}>{label}</a>
+            <a key={href} href={href} onClick={() => setOpen(false)}>
+              {label}
+            </a>
           ))}
         </nav>
       )}

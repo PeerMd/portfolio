@@ -1,10 +1,10 @@
 export const profile = {
   name: 'Beermohamed K',
-  role: 'Frontend Engineer',
+  role: 'Senior Frontend Engineer',
   location: 'Chennai, India',
   email: 'peerkamaal@gmail.com',
   linkedin: 'https://linkedin.com/in/beer-mohamed-7080b72b6',
-  github: 'https://github.com/',
+  github: 'https://github.com/peerMd',
   availability: 'Immediate Joiner',
   experience: '6+ Years Experience',
   availabilityNote: 'Open to Remote / Hybrid / Onsite',

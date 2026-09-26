@@ -1,4 +1,4 @@
-# Beermohamed K — Frontend Engineer Portfolio
+# Beermohamed K — Senior Frontend Engineer Portfolio
 
 A responsive personal portfolio built with **Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Lucide React and next-themes**.
 
@@ -88,4 +88,5 @@ npm start
 - Keep the original profile image at `public/images/profile-transparent.png` so the hero uses your real photo rather than an AI-generated face.
 
 ### Hero image
+
 The hero uses `public/images/hero-bg.jpg`, a composed hero background containing the supplied profile photo, office background, and laptop. The original supplied profile image remains in `public/images/profile-transparent.png` for reuse elsewhere.

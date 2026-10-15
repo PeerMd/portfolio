@@ -12,7 +12,7 @@ export function Footer() {
           </span>
           <span className="brand-copy">
             <strong>Beermohamed K</strong>
-            <small>Senior Frontend Engineer</small>
+            <small>Frontend Engineer</small>
           </span>
         </a>
         <nav className="footer-nav" aria-label="Footer navigation">

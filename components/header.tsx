@@ -26,7 +26,7 @@ export function Header() {
           </span>
           <span className="brand-copy">
             <strong>Beermohamed K</strong>
-            <small>Senior Frontend Engineer</small>
+            <small>Frontend Engineer</small>
           </span>
         </a>
 

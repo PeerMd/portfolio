@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Beermohamed K',
-  role: 'Senior Frontend Engineer',
+  role: 'Frontend Engineer',
   location: 'Chennai, India',
   email: 'peerkamaal@gmail.com',
   linkedin: 'https://linkedin.com/in/beer-mohamed-7080b72b6',

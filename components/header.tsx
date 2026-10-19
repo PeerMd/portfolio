@@ -40,13 +40,13 @@ export function Header() {
 
         <div className="header-actions">
           <ThemeToggle />
-          <a
+          {/* <a
             className="button button-primary header-resume"
             href="/resume.pdf"
             download
           >
             <Download size={14} /> Download Resume
-          </a>
+          </a> */}
           <button
             className="mobile-menu-button"
             type="button"
